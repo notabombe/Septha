@@ -1,6 +1,6 @@
 # Septha
 
-![Septha]()
+![Septha](https://github.com/notabombe/Septha/blob/master/septha.jpg)
 
 Easily pay for things using web3
 
