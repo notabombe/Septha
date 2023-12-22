@@ -17,9 +17,9 @@ We want to shorten the transaction gap between a crypto-assets holder and everyd
 This is a test project on the Mumbai testnet on the Polygon Network. The project is divided into 3 different applications.
 
 - [Figma design](https://www.figma.com/file/lnd3jqJWfPpUfuLI13fzEa/Septha?node-id=620%3A66&t=0e3kQ80qwvsN2UdI-3)
-- [Frontend (Web)](https://github.com/notabombe/Septha/tree/main/web)
-- [Smart contract](https://github.com/notabombe/Septha/tree/main/smart_contract)
-- [Backend](https://github.com/notabombe/Septha/tree/main/backend)
+- [Frontend (Web)](https://github.com/notabombe/Septha/tree/master/web)
+- [Smart contract](https://github.com/notabombe/Septha/tree/master/smart_contract)
+- [Backend](https://github.com/notabombe/Septha/tree/master/backend)
 
 ### Frontend
 The user interface to interact with the smart contract in a fun way. The web application is built with ReactJS.
@@ -47,7 +47,7 @@ Technology used are:
 - Ethers Js
 - Chainlink pricefeed
 
-[Test](https://github.com/notabombe/Septha/tree/main/smart_contract/coverage): The smart contract code has a 100% test coverage that cover most scenerio for the features
+[Test](https://github.com/notabombe/Septha/tree/master/smart_contract/coverage): The smart contract code has a 100% test coverage that cover most scenerio for the features
 
 ### Backend
 
